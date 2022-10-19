@@ -4,8 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * Main Method Student Name: Hamza El iraqy Student Number: 40976448 Course:
- * CST8130 - Data Structures : CET-CS-Level 3
+ * Main Method 
  * 
  * @author Hamza Eliraqy
  */

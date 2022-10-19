@@ -2,11 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  * Main Method Add String using hash method and finds the String
- * Student Name: Hamza Eliraqy 
- * Student Number: 40976448 
- * Course: CST8130 - Data Structures :
- * CET-CS-Level 3
- * 
+ 
  * @author Hamza Eliraqy
  */
 public class Lab8 {

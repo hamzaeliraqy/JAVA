@@ -7,8 +7,7 @@ import java.util.InputMismatchException;
 
 /**
  * This class contains the variables to add items and to compare, update and
- * print Student Name: Hamza El iraqy Student Number: 40976448 Course: CST8130 -
- * Data Structures : CET-CS-Level 3
+ * print 
  * 
  * @author Hamza Eliraqy
  */

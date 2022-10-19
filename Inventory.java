@@ -18,9 +18,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 /**
- * This class contains function to operate the inventory of FoodItem Student
- * Name: Hamza El iraqy Student Number: 40976448 Course: CST8130 - Data
- * Structures : CET-CS-Level 3
+ * This class contains function to operate the inventory of FoodItem
  * 
  * @author Hamza Eliraqy
  */

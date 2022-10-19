@@ -1,7 +1,4 @@
 
-// Made by Hamza El iraqy
-// Section 320
-// Professor Jason Mombourquette
 
 import java.lang.Double;
 import java.text.DecimalFormat;

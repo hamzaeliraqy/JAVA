@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 /**
  * This class contains the variables to add items and it extends FoodItem
- * Student Name: Hamza El iraqy Student Number: 40976448 Course: CST8130 - Data
- * Structures : CET-CS-Level 3
  * 
  * @author Hamza Eliraqy
  */
